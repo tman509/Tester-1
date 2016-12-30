@@ -3,7 +3,7 @@
 //  Tester 1
 //
 //  Created by Kaitlyn Hawker on 12/27/16.
-//  Copyright © 2016 Kaitlyn Hawker. All rights reserved.
+//  Copyright © 2016 Kaitlyn Hawker. All rights reserved.....
 //
 
 import UIKit
